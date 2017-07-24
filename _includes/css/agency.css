@@ -6,7 +6,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: Roboto Slab, Helvetica Neue, Helvetica ,Arial, sans-serif;
+    font-family: "Roboto Slab", "Helvetica Neue", Helvetica ,Arial, sans-serif;
     color: #{{ site.color.secondary-dark }};
 }
 
@@ -278,10 +278,11 @@ fieldset[disabled] .btn-xl.active {
 }
 
 header {
+	background-color: #800;
     text-align: center;
-    color: #fff;
+    color: #222;
     background-attachment: scroll;
-    background-image: url({{ site.titleBackground }});
+    background-image: url(img/IMG_2139.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -299,7 +300,7 @@ header .intro-text .intro-lead-in {
     margin-bottom: 25px;
     font-family: "Montserrat","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 30px;
-    font-weight: 550;
+    font-weight: 700;
     line-height: 22px;
 }
 
@@ -669,14 +670,18 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(img/terminal-3.jpg);
+    background-color: #95916A;
+    background-image: url(img/contactbackground.png);
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
     color: #fff;
+}
+
+section#contact .section-subheading {
+	color: #fff;
 }
 
 section#contact .form-group {
