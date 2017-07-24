@@ -21,6 +21,7 @@ language: en
 titleBackground: img/IMG_2139.jpg
 headlineSmall: "Welcome to ComBEE @ UW-Madison!"
 headlineMain: 
+avatar: "img/logos/combee-logo-2.jpg"
 
 # Setup Google Calendar
 # Usage:
