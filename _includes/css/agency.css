@@ -902,14 +902,15 @@ body {
 
 .site-avatar {
   float: left;
-  width: 60px;
-  height: auto;
-  margin-right: 15px;
+  width: 75px;
+  height: 75px;
+  margin-right: 0px;
+  padding: 7px;
 
   @include mobile {
     float: none;
     display: block;
-    margin: 0 auto;
+    margin:  0 auto;
   }
 
   img {
