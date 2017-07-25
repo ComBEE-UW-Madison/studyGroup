@@ -903,11 +903,11 @@ body {
 .site-avatar {
   float: left;
   width: 60px;
-  height: 60px;
+  height: 65px;
   margin-right: 0px;
 
   @include mobile {
-    float: left;
+    float: none;
     display: block;
     margin:  0 auto;
   }
