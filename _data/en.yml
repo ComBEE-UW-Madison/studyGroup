@@ -2,8 +2,7 @@
 whatWeDo: Computational Biology, Ecology, & Evolution 
 contact: Contact
 tellMeMore: Tell Me More
-rsg: R Study Group
-psg: Python Study Group
+sg: Study Groups
 events: Events
 
 activitiesSubheading: 'ComBEE is a group of researchers at UW-Madison interested in computational biology in ecology and evolution.'
@@ -20,7 +19,10 @@ activities:
 
 
 eventsHeading: "Monthly ComBEE Events:"
-eventsSubheading: "Events for Python Study Group and R Study Group can be found on their respective web pages linked below."
+eventsSubheading: "Events for Python Study Group and R Study Group can be found on their respective web pages linked above."
+
+sgHeading: Study Groups
+sgSubheading: We currently offer R and Python Study Groups on alternating weeks during the regular semester. We welcome all experience levels to learn new topics and help others in R and Python. Follow the links below to find archived notes, code, and lessons as well as topics that we are currently learning! 
 
 
 calendar: Subscribe to our events calendar!
