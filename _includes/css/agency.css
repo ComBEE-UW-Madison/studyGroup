@@ -671,8 +671,13 @@ aside.clients img {
 section#contact {
     background-color: #95916A;
     background-image: url(img/contactbackground.png);
-    background-position: center;
-    background-repeat: no-repeat;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
 }
 
 section#contact .section-heading {
@@ -916,3 +921,19 @@ body {
     border-radius: 5px;
   }
 }
+
+section#events {
+ 	background-color: #A8C2D7;
+    background-position: center center;
+    background-repeat: none;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+    text-align: center;
+}
+
+section#events .section-subheading {
+	color: #050C11;
+}
+

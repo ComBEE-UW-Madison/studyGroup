@@ -4,6 +4,7 @@ contact: Contact
 tellMeMore: Tell Me More
 rsg: R Study Group
 psg: Python Study Group
+events: Events
 
 activitiesSubheading: 'ComBEE is a group of researchers at UW-Madison interested in computational biology in ecology and evolution.'
 activities:
@@ -16,6 +17,10 @@ activities:
   - title: Community Building
     description: 'Meet new people in your field, organization or community.'
     icon: fa-group
+
+
+eventsHeading: "Monthly ComBEE Events:"
+eventsSubheading: "Events for Python Study Group and R Study Group can be found on their respective web pages linked below."
 
 
 calendar: Subscribe to our events calendar!
