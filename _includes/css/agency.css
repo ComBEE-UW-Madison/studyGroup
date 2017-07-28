@@ -938,6 +938,8 @@ section#events .section-subheading {
 
 section#sg {
 	background-color: #F7F596;
+	background-image: url(/img/bee-sg-6.jpg);
+	background-color: transparent;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -945,9 +947,12 @@ section#sg {
     background-size: cover;
     -o-background-size: cover;
     text-align: center;
+    text-style: bold;
 }
 
 section#sg .section-subheading {
 	color: #050C11;
 	font-style: none;
+	font-size: 25px;
+	line-height: 35px;
 }

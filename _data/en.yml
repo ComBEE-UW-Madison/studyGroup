@@ -4,6 +4,7 @@ contact: Contact
 tellMeMore: Tell Me More
 sg: Study Groups
 events: Events
+links: Links
 
 activitiesSubheading: 'ComBEE is a group of researchers at UW-Madison interested in computational biology in ecology and evolution.'
 activities:
@@ -33,6 +34,9 @@ iCal: 'If you use another calendar app, you can copy and paste <a href="%CALENDA
 sayHi: Contact Us
 contactSubheading: 'Join our listserv to get notifications about R and Python Study Groups and ComBEE Events!'
 contact: Join our Listserv
+
+linksHeading: Links and Resources
+linksSubheading: Groups and resources for coding and research
 
 
 codeOfConduct: Study Group Code of Conduct
