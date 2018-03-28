@@ -19,8 +19,8 @@ language: en
 # None of these things need to be changed - but feel free!
 
 titleBackground: img/IMG_2139.jpg
-headlineSmall: "Welcome to ComBEE @ UW-Madison!"
-headlineMain: 
+headlineSmall: 
+headlineMain: "Welcome to ComBEE @ UW-Madison!"
 avatar: "img/logos/combee-bee4-logo.png"
 
 # Setup Google Calendar
