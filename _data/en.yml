@@ -21,8 +21,7 @@ activities:
 
 eventsHeading: "Monthly ComBEE Events:"
 eventsSubheading: "Join us at one of our study groups or monthly seminars!."
-eventsDescription: 
-'<table>
+eventsDescription: '<table>
   <tr>
     <th>Month</th>
     <th>Event</th>
@@ -71,8 +70,7 @@ eventsDescription:
     <td></td>
     <td></td>
   </tr>
-</table>
-'
+</table>'
 
 sgHeading: Study Groups
 sgSubheading: We currently offer Python and R Study Group (staring July 2023), and have temporarily discontinued the omics study group in favor of monthly meetings about omics topics. We welcome all experience levels to learn new topics and help others achieve their analytical goals. Follow the links below to find archived notes, code, and lessons as well as topics that we are currently learning! 
