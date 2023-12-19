@@ -21,16 +21,53 @@ activities:
 
 eventsHeading: "Monthly ComBEE Events:"
 eventsSubheading: "Join us at one of our study groups or monthly seminars!."
-Fall 2023
-- January: Social Kick-Off Event | <a href="https://today.wisc.edu/events/view/190213">event information</a> | Please RSVP
-- February: Campus Research and Data Science Services | <a href="https://today.wisc.edu/events/view/190214">event information<a>
-- March: Automating workflows: Example from Metagenome-Assembled Genomes | Information to come
-- April: Marchine Learning in Biology | <a href="https://today.wisc.edu/events/view/190215">event information</a>
-- May: Data Visualization Art Showcase | Information to come
-
-Fall 2023
-- November: Intro the Center for High Throughput Computing and Q&A
-- October: Bash Scripting and Awk
+eventsDescription: '<table>
+  <tr>
+    <th>Month</th>
+    <th>Event</th>
+    <th>Event Information</th>
+    <th>Additional Information</th>
+  </tr>
+  <tr>
+    <td>January</td>
+    <td>Social Kick-Off Event</td>
+    <td><a href="https://today.wisc.edu/events/view/190213">event information</a></td>
+    <td>Please RSVP</td>
+  </tr>
+  <tr>
+    <td>February</td>
+    <td>Campus Research and Data Science Services</td>
+    <td><a href="https://today.wisc.edu/events/view/190214">event information</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>March</td>
+    <td>Automating workflows: Example from Metagenome-Assembled Genomes</td>
+    <td>Information to come</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>April</td>
+    <td>Machine Learning in Biology</td>
+    <td><a href="https://today.wisc.edu/events/view/190215">event information</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>May</td>
+    <td>Data Visualization Art Showcase</td>
+    <td>Information to come</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fall 2023</td>
+    <td>November: Intro the Center for High Throughput Computing and Q&A</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Fall 2023</td>
+    <
+'
 
 sgHeading: Study Groups
 sgSubheading: We currently offer Python and R Study Group (staring July 2023), and have temporarily discontinued the omics study group in favor of monthly meetings about omics topics. We welcome all experience levels to learn new topics and help others achieve their analytical goals. Follow the links below to find archived notes, code, and lessons as well as topics that we are currently learning! 
