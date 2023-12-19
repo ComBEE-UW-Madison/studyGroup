@@ -21,7 +21,8 @@ activities:
 
 eventsHeading: "Monthly ComBEE Events:"
 eventsSubheading: "Join us at one of our study groups or monthly seminars!."
-eventsDescription: '<table>
+eventsDescription: 
+'<table>
   <tr>
     <th>Month</th>
     <th>Event</th>
@@ -66,7 +67,11 @@ eventsDescription: '<table>
   </tr>
   <tr>
     <td>Fall 2023</td>
-    <
+    <td>October: Bash Scripting and Awk</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 '
 
 sgHeading: Study Groups
